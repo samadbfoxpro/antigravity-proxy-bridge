@@ -1,0 +1,10 @@
+﻿# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test or Scratch
+scratch/
+build_go.py
